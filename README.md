@@ -36,4 +36,4 @@ This system automates and secures parking lots reserved for OKU users — verify
 ## 📷 Images
 | Prototype |
 |------------------|
-| [prototype](prototype.jpg) |
+| ![Prototype](prototype.jpg) |
