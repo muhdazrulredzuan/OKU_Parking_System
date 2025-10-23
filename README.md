@@ -32,3 +32,8 @@ This system automates and secures parking lots reserved for OKU users — verify
 **Brochure:** [📘 View Brochure](FYP_Brochure.pdf)
 
 **User Manual:** [📚 Read Manual](FYP_Manual_Book.pdf)
+
+## 📷 Images
+| Prototype |
+|------------------|
+| [prototype](prototype.jpg) |
